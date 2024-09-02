@@ -1,5 +1,5 @@
-<div align='center' >
-   <img src= './HiTech Logo.png' alt='My Company Logo'    width= '250px / >
+<div align='center'>
+   <img src= 'Logo.png' alt='My Company Logo'    width= '450px'  />
 </div>
       
 <!---
