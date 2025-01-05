@@ -1,7 +1,7 @@
 <div align='center'>
    <img src= 'Logo.png' alt='My Company Logo'    width= '450px'  />
    <h2>
-   <a href= "https://youtube.com/@Hitechnologies?sub_confirmation=1"> Start Python With HiTech </a></h2>
+   <a href= "https://www.youtube.com/channel/UCBc3aSf54eyrl46RUWqIOIg?sub_confirmation=1"> Start Python With HiTech </a></h2>
 </div>
 
 # 🧑🏻‍💻 About Me:
